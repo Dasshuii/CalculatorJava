@@ -32,5 +32,5 @@ public class Calculator {
         return Math.pow(num, power);
     }
 
-    
+
 }
